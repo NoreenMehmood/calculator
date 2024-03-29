@@ -1,2 +1,2 @@
-# calculator
+simple calculator
 My first Assignment
